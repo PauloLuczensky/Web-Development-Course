@@ -1,0 +1,28 @@
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: currentColor;
+}
+
+.rojo{
+    color: red;
+}
+
+.verde{
+    color: green;
+    
+}
+
+.azul{
+    color: blue;
+    
+}
+
+.amarillo{
+    color: yellow;
+    
+}
+
+.naranja{
+    color: orange;
+}
